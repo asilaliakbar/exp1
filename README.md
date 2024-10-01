@@ -1,2 +1,2 @@
-# exp1
+# neural network lab
 nn lab
